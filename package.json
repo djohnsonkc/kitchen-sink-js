@@ -1,0 +1,25 @@
+{
+  "name": "kitchen-sink-js",
+  "version": "1.0.0",
+  "description": "The last JavaScript package you may ever need!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djohnsonkc/kitchen-sink-js.git"
+  },
+  "keywords": [
+    "satire",
+    "parody",
+    "JavaScript",
+    "package"
+  ],
+  "author": "Dywayne Johnson <djohnsonkc@gmail.com> (https://kitchensinkjs.herokuapp.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djohnsonkc/kitchen-sink-js/issues"
+  },
+  "homepage": "https://kitchensinkjs.herokuapp.com"
+}
