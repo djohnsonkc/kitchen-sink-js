@@ -8,15 +8,15 @@ Is your package.json bloated and you are wondering why in the world your JavaScr
 
 
 ## Install
-Use npm install or yarn add
+Use npm install or yarn add.
 ```
 $ npm install kitchen-sink-js
 $ yarn add kitchen-sink-js
 ```
 
 
-## Useage
-Simply require it :D :D :D!
+## Usage
+This is an example of how to include it in your project.
 ```js
 const kitchenSinkJs = require('kitchen-sink-js')
 ```
