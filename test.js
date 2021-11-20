@@ -1,3 +1,3 @@
-let kitchenSinkJs = require('./index');
+const kitchenSinkJs = require('./index');
 
 kitchenSinkJs.welcome()
